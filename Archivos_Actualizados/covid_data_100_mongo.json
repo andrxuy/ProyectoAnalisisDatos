@@ -1,0 +1,1002 @@
+[
+  {
+    "Date": "2020-01-22",
+    "Country_Region": "Mexico",
+    "Confirmed": 186299,
+    "Deaths": 11407,
+    "Recovered": 121311,
+    "Active": 3360,
+    "New_cases": 376,
+    "New_deaths": 440
+  },
+  {
+    "Date": "2020-01-23",
+    "Country_Region": "Albania",
+    "Confirmed": 81569,
+    "Deaths": 12024,
+    "Recovered": 18775,
+    "Active": 23310,
+    "New_cases": 4984,
+    "New_deaths": 391
+  },
+  {
+    "Date": "2020-01-24",
+    "Country_Region": "Ecuador",
+    "Confirmed": 130359,
+    "Deaths": 502,
+    "Recovered": 36638,
+    "Active": 34104,
+    "New_cases": 1266,
+    "New_deaths": 77
+  },
+  {
+    "Date": "2020-01-25",
+    "Country_Region": "Argentina",
+    "Confirmed": 161497,
+    "Deaths": 11487,
+    "Recovered": 28184,
+    "Active": 43259,
+    "New_cases": 3749,
+    "New_deaths": 487
+  },
+  {
+    "Date": "2020-01-26",
+    "Country_Region": "Brazil",
+    "Confirmed": 61094,
+    "Deaths": 13920,
+    "Recovered": 93890,
+    "Active": 45756,
+    "New_cases": 4531,
+    "New_deaths": 441
+  },
+  {
+    "Date": "2020-01-27",
+    "Country_Region": "Albania",
+    "Confirmed": 2909,
+    "Deaths": 13421,
+    "Recovered": 29677,
+    "Active": 20330,
+    "New_cases": 181,
+    "New_deaths": 474
+  },
+  {
+    "Date": "2020-01-28",
+    "Country_Region": "Colombia",
+    "Confirmed": 112385,
+    "Deaths": 1909,
+    "Recovered": 42413,
+    "Active": 13230,
+    "New_cases": 133,
+    "New_deaths": 328
+  },
+  {
+    "Date": "2020-01-29",
+    "Country_Region": "Colombia",
+    "Confirmed": 102205,
+    "Deaths": 16055,
+    "Recovered": 120648,
+    "Active": 8721,
+    "New_cases": 772,
+    "New_deaths": 379
+  },
+  {
+    "Date": "2020-01-30",
+    "Country_Region": "Argentina",
+    "Confirmed": 168604,
+    "Deaths": 13634,
+    "Recovered": 162208,
+    "Active": 12901,
+    "New_cases": 3563,
+    "New_deaths": 197
+  },
+  {
+    "Date": "2020-01-31",
+    "Country_Region": "Colombia",
+    "Confirmed": 84740,
+    "Deaths": 7723,
+    "Recovered": 129029,
+    "Active": 16336,
+    "New_cases": 1656,
+    "New_deaths": 89
+  },
+  {
+    "Date": "2020-02-01",
+    "Country_Region": "Ecuador",
+    "Confirmed": 66884,
+    "Deaths": 11710,
+    "Recovered": 154920,
+    "Active": 48952,
+    "New_cases": 2421,
+    "New_deaths": 442
+  },
+  {
+    "Date": "2020-02-02",
+    "Country_Region": "Ecuador",
+    "Confirmed": 78277,
+    "Deaths": 7309,
+    "Recovered": 59142,
+    "Active": 11871,
+    "New_cases": 2430,
+    "New_deaths": 371
+  },
+  {
+    "Date": "2020-02-03",
+    "Country_Region": "Colombia",
+    "Confirmed": 79351,
+    "Deaths": 6281,
+    "Recovered": 78502,
+    "Active": 40803,
+    "New_cases": 4296,
+    "New_deaths": 270
+  },
+  {
+    "Date": "2020-02-04",
+    "Country_Region": "Ecuador",
+    "Confirmed": 104536,
+    "Deaths": 4062,
+    "Recovered": 40119,
+    "Active": 36565,
+    "New_cases": 4059,
+    "New_deaths": 492
+  },
+  {
+    "Date": "2020-02-05",
+    "Country_Region": "Colombia",
+    "Confirmed": 51872,
+    "Deaths": 12226,
+    "Recovered": 138442,
+    "Active": 35040,
+    "New_cases": 2561,
+    "New_deaths": 22
+  },
+  {
+    "Date": "2020-02-06",
+    "Country_Region": "Mexico",
+    "Confirmed": 58420,
+    "Deaths": 16180,
+    "Recovered": 144766,
+    "Active": 45599,
+    "New_cases": 3875,
+    "New_deaths": 188
+  },
+  {
+    "Date": "2020-02-07",
+    "Country_Region": "Chile",
+    "Confirmed": 14968,
+    "Deaths": 6700,
+    "Recovered": 69805,
+    "Active": 48506,
+    "New_cases": 2491,
+    "New_deaths": 224
+  },
+  {
+    "Date": "2020-02-08",
+    "Country_Region": "Ecuador",
+    "Confirmed": 100040,
+    "Deaths": 16071,
+    "Recovered": 47109,
+    "Active": 10765,
+    "New_cases": 2042,
+    "New_deaths": 263
+  },
+  {
+    "Date": "2020-02-09",
+    "Country_Region": "Colombia",
+    "Confirmed": 63175,
+    "Deaths": 19674,
+    "Recovered": 107797,
+    "Active": 21328,
+    "New_cases": 4954,
+    "New_deaths": 289
+  },
+  {
+    "Date": "2020-02-10",
+    "Country_Region": "Peru",
+    "Confirmed": 25966,
+    "Deaths": 12510,
+    "Recovered": 135831,
+    "Active": 8157,
+    "New_cases": 3636,
+    "New_deaths": 268
+  },
+  {
+    "Date": "2020-02-11",
+    "Country_Region": "Chile",
+    "Confirmed": 117856,
+    "Deaths": 14716,
+    "Recovered": 30652,
+    "Active": 32897,
+    "New_cases": 4172,
+    "New_deaths": 162
+  },
+  {
+    "Date": "2020-02-12",
+    "Country_Region": "Ecuador",
+    "Confirmed": 70718,
+    "Deaths": 1135,
+    "Recovered": 66586,
+    "Active": 44664,
+    "New_cases": 1603,
+    "New_deaths": 183
+  },
+  {
+    "Date": "2020-02-13",
+    "Country_Region": "Chile",
+    "Confirmed": 146798,
+    "Deaths": 10459,
+    "Recovered": 125543,
+    "Active": 37246,
+    "New_cases": 2315,
+    "New_deaths": 329
+  },
+  {
+    "Date": "2020-02-14",
+    "Country_Region": "Albania",
+    "Confirmed": 75377,
+    "Deaths": 12236,
+    "Recovered": 99890,
+    "Active": 35968,
+    "New_cases": 4160,
+    "New_deaths": 295
+  },
+  {
+    "Date": "2020-02-15",
+    "Country_Region": "Ecuador",
+    "Confirmed": 36395,
+    "Deaths": 481,
+    "Recovered": 2056,
+    "Active": 41487,
+    "New_cases": 2599,
+    "New_deaths": 358
+  },
+  {
+    "Date": "2020-02-16",
+    "Country_Region": "Peru",
+    "Confirmed": 122770,
+    "Deaths": 12233,
+    "Recovered": 7966,
+    "Active": 48007,
+    "New_cases": 2831,
+    "New_deaths": 183
+  },
+  {
+    "Date": "2020-02-17",
+    "Country_Region": "Brazil",
+    "Confirmed": 15840,
+    "Deaths": 4681,
+    "Recovered": 81534,
+    "Active": 8027,
+    "New_cases": 1670,
+    "New_deaths": 6
+  },
+  {
+    "Date": "2020-02-18",
+    "Country_Region": "Albania",
+    "Confirmed": 78329,
+    "Deaths": 14644,
+    "Recovered": 178697,
+    "Active": 48702,
+    "New_cases": 4706,
+    "New_deaths": 238
+  },
+  {
+    "Date": "2020-02-19",
+    "Country_Region": "Argentina",
+    "Confirmed": 120126,
+    "Deaths": 12574,
+    "Recovered": 41025,
+    "Active": 31493,
+    "New_cases": 3205,
+    "New_deaths": 67
+  },
+  {
+    "Date": "2020-02-20",
+    "Country_Region": "Colombia",
+    "Confirmed": 72950,
+    "Deaths": 18148,
+    "Recovered": 169993,
+    "Active": 865,
+    "New_cases": 2388,
+    "New_deaths": 182
+  },
+  {
+    "Date": "2020-02-21",
+    "Country_Region": "Colombia",
+    "Confirmed": 89309,
+    "Deaths": 2080,
+    "Recovered": 44194,
+    "Active": 30043,
+    "New_cases": 1556,
+    "New_deaths": 287
+  },
+  {
+    "Date": "2020-02-22",
+    "Country_Region": "Albania",
+    "Confirmed": 135871,
+    "Deaths": 18848,
+    "Recovered": 109663,
+    "Active": 46206,
+    "New_cases": 811,
+    "New_deaths": 474
+  },
+  {
+    "Date": "2020-02-23",
+    "Country_Region": "Chile",
+    "Confirmed": 152314,
+    "Deaths": 7166,
+    "Recovered": 135686,
+    "Active": 29614,
+    "New_cases": 864,
+    "New_deaths": 269
+  },
+  {
+    "Date": "2020-02-24",
+    "Country_Region": "Peru",
+    "Confirmed": 129430,
+    "Deaths": 2323,
+    "Recovered": 100581,
+    "Active": 10064,
+    "New_cases": 508,
+    "New_deaths": 68
+  },
+  {
+    "Date": "2020-02-25",
+    "Country_Region": "Albania",
+    "Confirmed": 70009,
+    "Deaths": 7594,
+    "Recovered": 8546,
+    "Active": 38467,
+    "New_cases": 3127,
+    "New_deaths": 357
+  },
+  {
+    "Date": "2020-02-26",
+    "Country_Region": "Chile",
+    "Confirmed": 192458,
+    "Deaths": 17950,
+    "Recovered": 54880,
+    "Active": 16568,
+    "New_cases": 4710,
+    "New_deaths": 76
+  },
+  {
+    "Date": "2020-02-27",
+    "Country_Region": "Albania",
+    "Confirmed": 147342,
+    "Deaths": 17735,
+    "Recovered": 124859,
+    "Active": 34724,
+    "New_cases": 2974,
+    "New_deaths": 477
+  },
+  {
+    "Date": "2020-02-28",
+    "Country_Region": "Peru",
+    "Confirmed": 105766,
+    "Deaths": 5905,
+    "Recovered": 48794,
+    "Active": 43470,
+    "New_cases": 2654,
+    "New_deaths": 428
+  },
+  {
+    "Date": "2020-02-29",
+    "Country_Region": "Colombia",
+    "Confirmed": 44232,
+    "Deaths": 11454,
+    "Recovered": 36343,
+    "Active": 45172,
+    "New_cases": 876,
+    "New_deaths": 472
+  },
+  {
+    "Date": "2020-03-01",
+    "Country_Region": "Chile",
+    "Confirmed": 108591,
+    "Deaths": 7489,
+    "Recovered": 172881,
+    "Active": 40141,
+    "New_cases": 3284,
+    "New_deaths": 413
+  },
+  {
+    "Date": "2020-03-02",
+    "Country_Region": "Chile",
+    "Confirmed": 10025,
+    "Deaths": 14720,
+    "Recovered": 111723,
+    "Active": 7889,
+    "New_cases": 4989,
+    "New_deaths": 395
+  },
+  {
+    "Date": "2020-03-03",
+    "Country_Region": "Brazil",
+    "Confirmed": 114625,
+    "Deaths": 9152,
+    "Recovered": 99140,
+    "Active": 27944,
+    "New_cases": 507,
+    "New_deaths": 496
+  },
+  {
+    "Date": "2020-03-04",
+    "Country_Region": "Colombia",
+    "Confirmed": 56726,
+    "Deaths": 533,
+    "Recovered": 172583,
+    "Active": 22388,
+    "New_cases": 3936,
+    "New_deaths": 17
+  },
+  {
+    "Date": "2020-03-05",
+    "Country_Region": "Mexico",
+    "Confirmed": 168974,
+    "Deaths": 12355,
+    "Recovered": 28847,
+    "Active": 25192,
+    "New_cases": 3277,
+    "New_deaths": 103
+  },
+  {
+    "Date": "2020-03-06",
+    "Country_Region": "Argentina",
+    "Confirmed": 78184,
+    "Deaths": 19579,
+    "Recovered": 42108,
+    "Active": 16511,
+    "New_cases": 1400,
+    "New_deaths": 282
+  },
+  {
+    "Date": "2020-03-07",
+    "Country_Region": "Chile",
+    "Confirmed": 138128,
+    "Deaths": 5855,
+    "Recovered": 165313,
+    "Active": 28724,
+    "New_cases": 4703,
+    "New_deaths": 408
+  },
+  {
+    "Date": "2020-03-08",
+    "Country_Region": "Argentina",
+    "Confirmed": 131757,
+    "Deaths": 15364,
+    "Recovered": 153815,
+    "Active": 25362,
+    "New_cases": 809,
+    "New_deaths": 269
+  },
+  {
+    "Date": "2020-03-09",
+    "Country_Region": "Chile",
+    "Confirmed": 185626,
+    "Deaths": 8448,
+    "Recovered": 47708,
+    "Active": 24582,
+    "New_cases": 3681,
+    "New_deaths": 329
+  },
+  {
+    "Date": "2020-03-10",
+    "Country_Region": "Colombia",
+    "Confirmed": 138598,
+    "Deaths": 6536,
+    "Recovered": 164493,
+    "Active": 33655,
+    "New_cases": 1750,
+    "New_deaths": 332
+  },
+  {
+    "Date": "2020-03-11",
+    "Country_Region": "Peru",
+    "Confirmed": 194686,
+    "Deaths": 10828,
+    "Recovered": 67281,
+    "Active": 2371,
+    "New_cases": 3222,
+    "New_deaths": 287
+  },
+  {
+    "Date": "2020-03-12",
+    "Country_Region": "Ecuador",
+    "Confirmed": 108600,
+    "Deaths": 1166,
+    "Recovered": 120956,
+    "Active": 42398,
+    "New_cases": 3533,
+    "New_deaths": 402
+  },
+  {
+    "Date": "2020-03-13",
+    "Country_Region": "Ecuador",
+    "Confirmed": 91664,
+    "Deaths": 17805,
+    "Recovered": 93792,
+    "Active": 6789,
+    "New_cases": 1957,
+    "New_deaths": 92
+  },
+  {
+    "Date": "2020-03-14",
+    "Country_Region": "Peru",
+    "Confirmed": 147961,
+    "Deaths": 1827,
+    "Recovered": 100346,
+    "Active": 1758,
+    "New_cases": 516,
+    "New_deaths": 265
+  },
+  {
+    "Date": "2020-03-15",
+    "Country_Region": "Argentina",
+    "Confirmed": 90205,
+    "Deaths": 7022,
+    "Recovered": 34152,
+    "Active": 4881,
+    "New_cases": 3090,
+    "New_deaths": 477
+  },
+  {
+    "Date": "2020-03-16",
+    "Country_Region": "Mexico",
+    "Confirmed": 22620,
+    "Deaths": 5649,
+    "Recovered": 84319,
+    "Active": 33977,
+    "New_cases": 3368,
+    "New_deaths": 209
+  },
+  {
+    "Date": "2020-03-17",
+    "Country_Region": "Brazil",
+    "Confirmed": 56791,
+    "Deaths": 9885,
+    "Recovered": 102816,
+    "Active": 3605,
+    "New_cases": 4893,
+    "New_deaths": 145
+  },
+  {
+    "Date": "2020-03-18",
+    "Country_Region": "Ecuador",
+    "Confirmed": 137818,
+    "Deaths": 12548,
+    "Recovered": 157830,
+    "Active": 19372,
+    "New_cases": 1224,
+    "New_deaths": 447
+  },
+  {
+    "Date": "2020-03-19",
+    "Country_Region": "Chile",
+    "Confirmed": 18331,
+    "Deaths": 875,
+    "Recovered": 152063,
+    "Active": 48893,
+    "New_cases": 1493,
+    "New_deaths": 217
+  },
+  {
+    "Date": "2020-03-20",
+    "Country_Region": "Peru",
+    "Confirmed": 131070,
+    "Deaths": 18837,
+    "Recovered": 111985,
+    "Active": 14963,
+    "New_cases": 3625,
+    "New_deaths": 404
+  },
+  {
+    "Date": "2020-03-21",
+    "Country_Region": "Peru",
+    "Confirmed": 55612,
+    "Deaths": 18729,
+    "Recovered": 60086,
+    "Active": 29750,
+    "New_cases": 4498,
+    "New_deaths": 451
+  },
+  {
+    "Date": "2020-03-22",
+    "Country_Region": "Ecuador",
+    "Confirmed": 27651,
+    "Deaths": 8689,
+    "Recovered": 97542,
+    "Active": 24423,
+    "New_cases": 3232,
+    "New_deaths": 130
+  },
+  {
+    "Date": "2020-03-23",
+    "Country_Region": "Ecuador",
+    "Confirmed": 41542,
+    "Deaths": 10854,
+    "Recovered": 174036,
+    "Active": 42640,
+    "New_cases": 215,
+    "New_deaths": 359
+  },
+  {
+    "Date": "2020-03-24",
+    "Country_Region": "Chile",
+    "Confirmed": 95397,
+    "Deaths": 19129,
+    "Recovered": 111407,
+    "Active": 45483,
+    "New_cases": 2070,
+    "New_deaths": 194
+  },
+  {
+    "Date": "2020-03-25",
+    "Country_Region": "Argentina",
+    "Confirmed": 155025,
+    "Deaths": 812,
+    "Recovered": 93827,
+    "Active": 9145,
+    "New_cases": 3739,
+    "New_deaths": 227
+  },
+  {
+    "Date": "2020-03-26",
+    "Country_Region": "Argentina",
+    "Confirmed": 46462,
+    "Deaths": 16611,
+    "Recovered": 171913,
+    "Active": 2834,
+    "New_cases": 4770,
+    "New_deaths": 426
+  },
+  {
+    "Date": "2020-03-27",
+    "Country_Region": "Colombia",
+    "Confirmed": 82175,
+    "Deaths": 12755,
+    "Recovered": 128014,
+    "Active": 28772,
+    "New_cases": 3973,
+    "New_deaths": 482
+  },
+  {
+    "Date": "2020-03-28",
+    "Country_Region": "Argentina",
+    "Confirmed": 196016,
+    "Deaths": 18150,
+    "Recovered": 66596,
+    "Active": 20967,
+    "New_cases": 3824,
+    "New_deaths": 251
+  },
+  {
+    "Date": "2020-03-29",
+    "Country_Region": "Peru",
+    "Confirmed": 44214,
+    "Deaths": 8411,
+    "Recovered": 31055,
+    "Active": 30169,
+    "New_cases": 3095,
+    "New_deaths": 282
+  },
+  {
+    "Date": "2020-03-30",
+    "Country_Region": "Brazil",
+    "Confirmed": 3629,
+    "Deaths": 16292,
+    "Recovered": 41572,
+    "Active": 492,
+    "New_cases": 755,
+    "New_deaths": 217
+  },
+  {
+    "Date": "2020-03-31",
+    "Country_Region": "Ecuador",
+    "Confirmed": 135317,
+    "Deaths": 10199,
+    "Recovered": 95054,
+    "Active": 32967,
+    "New_cases": 2840,
+    "New_deaths": 250
+  },
+  {
+    "Date": "2020-04-01",
+    "Country_Region": "Albania",
+    "Confirmed": 4162,
+    "Deaths": 7567,
+    "Recovered": 13747,
+    "Active": 43090,
+    "New_cases": 2684,
+    "New_deaths": 191
+  },
+  {
+    "Date": "2020-04-02",
+    "Country_Region": "Argentina",
+    "Confirmed": 137679,
+    "Deaths": 2694,
+    "Recovered": 140315,
+    "Active": 39544,
+    "New_cases": 3640,
+    "New_deaths": 155
+  },
+  {
+    "Date": "2020-04-03",
+    "Country_Region": "Argentina",
+    "Confirmed": 17818,
+    "Deaths": 15732,
+    "Recovered": 21471,
+    "Active": 24789,
+    "New_cases": 4169,
+    "New_deaths": 195
+  },
+  {
+    "Date": "2020-04-04",
+    "Country_Region": "Argentina",
+    "Confirmed": 198977,
+    "Deaths": 12303,
+    "Recovered": 171400,
+    "Active": 47115,
+    "New_cases": 229,
+    "New_deaths": 13
+  },
+  {
+    "Date": "2020-04-05",
+    "Country_Region": "Argentina",
+    "Confirmed": 56168,
+    "Deaths": 2889,
+    "Recovered": 73633,
+    "Active": 44902,
+    "New_cases": 4250,
+    "New_deaths": 81
+  },
+  {
+    "Date": "2020-04-06",
+    "Country_Region": "Albania",
+    "Confirmed": 72638,
+    "Deaths": 3466,
+    "Recovered": 60981,
+    "Active": 11080,
+    "New_cases": 4697,
+    "New_deaths": 190
+  },
+  {
+    "Date": "2020-04-07",
+    "Country_Region": "Peru",
+    "Confirmed": 108693,
+    "Deaths": 11312,
+    "Recovered": 98840,
+    "Active": 14299,
+    "New_cases": 1919,
+    "New_deaths": 416
+  },
+  {
+    "Date": "2020-04-08",
+    "Country_Region": "Ecuador",
+    "Confirmed": 42897,
+    "Deaths": 17161,
+    "Recovered": 66582,
+    "Active": 21582,
+    "New_cases": 3192,
+    "New_deaths": 461
+  },
+  {
+    "Date": "2020-04-09",
+    "Country_Region": "Colombia",
+    "Confirmed": 198387,
+    "Deaths": 19688,
+    "Recovered": 89310,
+    "Active": 13996,
+    "New_cases": 3561,
+    "New_deaths": 93
+  },
+  {
+    "Date": "2020-04-10",
+    "Country_Region": "Colombia",
+    "Confirmed": 12285,
+    "Deaths": 10104,
+    "Recovered": 137158,
+    "Active": 34137,
+    "New_cases": 3533,
+    "New_deaths": 459
+  },
+  {
+    "Date": "2020-04-11",
+    "Country_Region": "Mexico",
+    "Confirmed": 157182,
+    "Deaths": 7446,
+    "Recovered": 25699,
+    "Active": 32426,
+    "New_cases": 4939,
+    "New_deaths": 398
+  },
+  {
+    "Date": "2020-04-12",
+    "Country_Region": "Brazil",
+    "Confirmed": 16989,
+    "Deaths": 8713,
+    "Recovered": 57042,
+    "Active": 44204,
+    "New_cases": 2730,
+    "New_deaths": 396
+  },
+  {
+    "Date": "2020-04-13",
+    "Country_Region": "Mexico",
+    "Confirmed": 187502,
+    "Deaths": 896,
+    "Recovered": 52802,
+    "Active": 11327,
+    "New_cases": 651,
+    "New_deaths": 375
+  },
+  {
+    "Date": "2020-04-14",
+    "Country_Region": "Peru",
+    "Confirmed": 150751,
+    "Deaths": 8824,
+    "Recovered": 21862,
+    "Active": 44316,
+    "New_cases": 1903,
+    "New_deaths": 476
+  },
+  {
+    "Date": "2020-04-15",
+    "Country_Region": "Mexico",
+    "Confirmed": 8861,
+    "Deaths": 719,
+    "Recovered": 53209,
+    "Active": 11208,
+    "New_cases": 3577,
+    "New_deaths": 463
+  },
+  {
+    "Date": "2020-04-16",
+    "Country_Region": "Mexico",
+    "Confirmed": 127719,
+    "Deaths": 1381,
+    "Recovered": 52477,
+    "Active": 17642,
+    "New_cases": 4021,
+    "New_deaths": 169
+  },
+  {
+    "Date": "2020-04-17",
+    "Country_Region": "Chile",
+    "Confirmed": 78175,
+    "Deaths": 65,
+    "Recovered": 96439,
+    "Active": 36778,
+    "New_cases": 4997,
+    "New_deaths": 78
+  },
+  {
+    "Date": "2020-04-18",
+    "Country_Region": "Brazil",
+    "Confirmed": 160572,
+    "Deaths": 17956,
+    "Recovered": 145075,
+    "Active": 41388,
+    "New_cases": 1215,
+    "New_deaths": 75
+  },
+  {
+    "Date": "2020-04-19",
+    "Country_Region": "Argentina",
+    "Confirmed": 72024,
+    "Deaths": 4388,
+    "Recovered": 141220,
+    "Active": 25863,
+    "New_cases": 2783,
+    "New_deaths": 360
+  },
+  {
+    "Date": "2020-04-20",
+    "Country_Region": "Argentina",
+    "Confirmed": 161460,
+    "Deaths": 18236,
+    "Recovered": 10205,
+    "Active": 4940,
+    "New_cases": 2332,
+    "New_deaths": 190
+  },
+  {
+    "Date": "2020-04-21",
+    "Country_Region": "Chile",
+    "Confirmed": 38103,
+    "Deaths": 8257,
+    "Recovered": 106763,
+    "Active": 26688,
+    "New_cases": 2355,
+    "New_deaths": 265
+  },
+  {
+    "Date": "2020-04-22",
+    "Country_Region": "Mexico",
+    "Confirmed": 61593,
+    "Deaths": 7185,
+    "Recovered": 134396,
+    "Active": 38861,
+    "New_cases": 491,
+    "New_deaths": 389
+  },
+  {
+    "Date": "2020-04-23",
+    "Country_Region": "Argentina",
+    "Confirmed": 155582,
+    "Deaths": 7514,
+    "Recovered": 153494,
+    "Active": 17149,
+    "New_cases": 403,
+    "New_deaths": 230
+  },
+  {
+    "Date": "2020-04-24",
+    "Country_Region": "Ecuador",
+    "Confirmed": 35282,
+    "Deaths": 2888,
+    "Recovered": 172156,
+    "Active": 40200,
+    "New_cases": 1550,
+    "New_deaths": 22
+  },
+  {
+    "Date": "2020-04-25",
+    "Country_Region": "Chile",
+    "Confirmed": 22408,
+    "Deaths": 3014,
+    "Recovered": 27334,
+    "Active": 16130,
+    "New_cases": 1860,
+    "New_deaths": 26
+  },
+  {
+    "Date": "2020-04-26",
+    "Country_Region": "Ecuador",
+    "Confirmed": 44102,
+    "Deaths": 10192,
+    "Recovered": 133015,
+    "Active": 879,
+    "New_cases": 504,
+    "New_deaths": 406
+  },
+  {
+    "Date": "2020-04-27",
+    "Country_Region": "Peru",
+    "Confirmed": 197963,
+    "Deaths": 14014,
+    "Recovered": 80047,
+    "Active": 8297,
+    "New_cases": 741,
+    "New_deaths": 474
+  },
+  {
+    "Date": "2020-04-28",
+    "Country_Region": "Chile",
+    "Confirmed": 53885,
+    "Deaths": 283,
+    "Recovered": 159879,
+    "Active": 12593,
+    "New_cases": 2500,
+    "New_deaths": 199
+  },
+  {
+    "Date": "2020-04-29",
+    "Country_Region": "Mexico",
+    "Confirmed": 50948,
+    "Deaths": 4296,
+    "Recovered": 88210,
+    "Active": 2662,
+    "New_cases": 3977,
+    "New_deaths": 99
+  },
+  {
+    "Date": "2020-04-30",
+    "Country_Region": "Argentina",
+    "Confirmed": 163112,
+    "Deaths": 17267,
+    "Recovered": 165197,
+    "Active": 22846,
+    "New_cases": 955,
+    "New_deaths": 102
+  }
+]
